@@ -25,20 +25,15 @@
   <tr>
     <td align="center">
       <br>
-      <h1>🚧 &nbsp; CODE COMING SOON &nbsp; 🚧</h1>
+      <h1>🚧 &nbsp; Code Availability &nbsp; 🚧</h1>
       <br>
-      <h3>The complete source code and datasets will be released<br>immediately upon the acceptance of our paper.</h3>
-      <br>
-      <h2>👇 &nbsp; Please <strong style="color: red;">Star ⭐ this Repository</strong> for updates! &nbsp; 👇</h2>
-      <br>
+      <h1>The complete source code and datasets for F-LIVO will be publicly released upon the acceptance of the paper.</h1>
     </td>
   </tr>
 </table>
 <br>
 
 </div>
-
----
 
 ## 📝 1. Introduction
 
